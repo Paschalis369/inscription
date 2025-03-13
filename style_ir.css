@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: century;
+}
+
+header{
+    background-image:linear-gradient(rgb(0, 0, 0, 0.6), rgb(0, 0, 0, 0.6)), url(e206a60df91c528a9ef4fc9168181e86.jpg);
+    width: 219vh;
+    height: 330vh;
+    background-size: contain;
+    background-position: center;
+    overflow: hidden;
+}
+
+h1{
+    position: absolute;
+    top: 43%;
+    left: 30%;
+    font-size: 70px;
+    color: red;
+    text-decoration: 3px underline;
+}
