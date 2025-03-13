@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: century;
+}
+
+header{
+    background-image:linear-gradient(rgb(0, 0, 0, 0.6), rgb(0, 0, 0, 0.6)), url(e206a60df91c528a9ef4fc9168181e86.jpg);
+    width: 219vh;
+    height: 330vh;
+    background-size: cover;
+    background-position: center;
+}
+table{
+    position: absolute;
+    left: 38%;
+    top: 10%;
+    font-size: 25px;
+    padding: 15px 25px;
+    border: 3px solid yellow;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+.checkbox{
+    font-size: 15px;
+    position: absolute;
+    left: 10%;
+}
+
+#check1{
+    top: 70.6%;
+}
+#check2{
+    top: 76.5%;
+}
+
+.souscrire{
+    text-align: center;
+}
+
+.connect{
+    font-size: 15px;
+    text-align: center;
+}
+
+.network a{
+    margin: 10px;
+}
+
+h1 span{
+    color: red;
+}
